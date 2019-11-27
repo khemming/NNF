@@ -2,6 +2,11 @@
 .Rhistory
 .Rapp.history
 
+# Ignore these folders
+Data files
+Documents
+Results
+
 # Session Data files
 .RData
 
@@ -34,3 +39,4 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+.Rproj.user
